@@ -1,4 +1,7 @@
 # Hospital-Services-Pricing-Calculator
+## Application Screenshot
+
+![Hospital Services Pricing Calculator](hospital-calculator.png)
 Java Swing desktop application for calculating hospital service prices and adding custom services.
 # Hospital Services Pricing Calculator
 
